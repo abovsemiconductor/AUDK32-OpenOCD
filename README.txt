@@ -15,7 +15,7 @@ This package supports the following ABOV 32bit hardware:
 
 - abov32v1 : A33G52x, A33G53x
 - abov32v2 : A31G21x, A31G22x, A31G31x, A31G32x, A31T21x
-- abov32v3 : A33M11x, A34M41x, A34M42x, A34L71x
+- abov32v3 : A33M11x, A34M41x, A34M42x, A34L71x, A34G43x
 - abov32f1 : A31G11x, A31G12x, A31L12x, A31L22x, A31G33x, A31G34x
 - abov32f2 : A31L21x, A31S13x
 
